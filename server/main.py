@@ -5,7 +5,7 @@ import json
 from db import save_message, get_msgs, get_last_messages, save_chroma
 #from chroma_db import collection
 
-openai.api_key="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"
+openai.api_key="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"
 
 app = Flask(__name__)
 CORS(app)
