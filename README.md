@@ -13,9 +13,8 @@ node index.js
 3. start python server
  update openai.api_key in main.py with your new key, the key will be disabled after checked in to Github
 openai.api_key="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"
-
-cd server 
-py main.py
+  cd server 
+  py main.py
 
 
 this is a screenshot on browser
@@ -27,7 +26,7 @@ cd react-frontend
 docker build -t react-frontend:latest .
 it will create frontend docker img
 
-# dockernize react frontend
+# dockernize nodejs and python backend
 cd server
 docker build -t node-backend:latest .
 it will create backend node server docker img
