@@ -5,6 +5,8 @@ react Chat with GPT
 cd react-frontend
 yarn start
 then go to http://localhost:3000/ via brwoser
+![image](https://github.com/halochg/reactChat/assets/2626025/91292a2f-2786-4d33-b718-37ca4cb248b9)
+
 
 2. start node server
 cd server
