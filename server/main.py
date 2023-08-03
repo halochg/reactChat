@@ -3,7 +3,7 @@ from flask import Flask, request, Response, jsonify
 from flask_cors import CORS
 import json
 from db import save_message, get_msgs, get_last_messages, save_chroma
-from chroma_db import collection
+#from chroma_db import collection
 
 openai.api_key="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"
 
@@ -52,7 +52,7 @@ def generate_response(message):
 
         save_message(message, 'user')
         save_message(answer, 'server')
-        save_chroma(message, answer, collection)
+        #save_chroma(message, answer, collection)
 
 
     except Exception as e:
