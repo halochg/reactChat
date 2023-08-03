@@ -13,7 +13,7 @@ node index.js
 3. start python server
  update openai.api_key in main.py with your new key, the key will be disabled after checked in to Github
 openai.api_key="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"
-  cd server 
+  cd server; 
   py main.py
 
 
