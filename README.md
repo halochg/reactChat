@@ -5,8 +5,6 @@ react Chat with GPT
 cd react-frontend
 yarn start
 then go to http://localhost:3000/ via brwoser
-![image](https://github.com/halochg/reactChat/assets/2626025/91292a2f-2786-4d33-b718-37ca4cb248b9)
-
 
 2. start node server
 cd server
@@ -18,6 +16,10 @@ openai.api_key="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"
 
 cd server 
 py main.py
+
+
+this is a screenshot on browser
+![image](https://github.com/halochg/reactChat/assets/2626025/91292a2f-2786-4d33-b718-37ca4cb248b9)
 
 
 # dockernize react frontend
