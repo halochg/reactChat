@@ -19,7 +19,7 @@ py main.py
 
 
 this is a screenshot on browser
-![image](https://github.com/halochg/reactChat/assets/2626025/91292a2f-2786-4d33-b718-37ca4cb248b9)
+![image](https://github.com/halochg/reactChat/assets/2626025/aee59d69-647e-44eb-baa3-324cff90e060)
 
 
 # dockernize react frontend
